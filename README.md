@@ -9,11 +9,9 @@ In this project we will implement an end-to-end Deep learning architecture which
 
 To know more about the approach, refer my medium blog post,
 
-Part 1: https://asagar60.medium.com/instacart-market-basket-analysis-part-1-introduction-eda-b08fd8250502
+Part 1: 
 
-Part 2: https://asagar60.medium.com/instacart-market-basket-analysis-part-2-fe-modelling-1dc02c2b028b
-
-Part 3: https://asagar60.medium.com/instacart-market-basket-analysis-part-3-deployment-ee813520284d
+Part 2: 
 
 ## Data
 We will use both Marmot and Marmot Extended dataset for Table Recognition. Marmot dataset contains Table bounding box coordinates and extended version of this dataset contains  Column bounding box coordinates.
