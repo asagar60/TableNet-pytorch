@@ -9,9 +9,9 @@ In this project we will implement an end-to-end Deep learning architecture which
 
 To know more about the approach, refer my medium blog post,
 
-Part 1: 
+Part 1: https://asagar60.medium.com/tablenet-deep-learning-model-for-end-to-end-table-detection-and-tabular-data-extraction-from-b1547799fe29
 
-Part 2: 
+Part 2: https://asagar60.medium.com/tablenet-deep-learning-model-for-end-to-end-table-detection-and-tabular-data-extraction-from-a49ac4cbffd4
 
 ## Data
 We will use both Marmot and Marmot Extended dataset for Table Recognition. Marmot dataset contains Table bounding box coordinates and extended version of this dataset contains  Column bounding box coordinates.
